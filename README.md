@@ -16,9 +16,10 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 
 * [how to contribute](#how-to-contribute)
 * [Companies using Nodejs](#companies-using-nodejs)
+  * [e-commerce](#e-commerce)
   * [fintechs](#fintechs)
   * [portals](#portals)
-  * [e-commerce](#e-commerce)
+  * [social media](#social-media)
 * [Brazilian projects using Nodejs](#brazilian-projects-using-nodejs)
 * [Nodejs devs](#nodejs-devs)
 
@@ -45,12 +46,17 @@ To insert your developer profile, follow this format:
 ```
 
 ## Companies using Nodejs
-* [Scup](https://www.scup.com/pt/)
-* [Sprinklr](https://www.sprinklr.com/pt-br/)
+
+### e-commerce
 
 ### fintechs
+
 ### portals
-### e-commerce
+
+### social media
+
+* [Scup](https://www.scup.com/pt/)
+* [Sprinklr](https://www.sprinklr.com/pt-br/)
 
 ## Brazilian projects using Nodejs
 * [Scup Care](https://www.scup.com/en/)
