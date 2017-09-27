@@ -53,3 +53,7 @@ To insert your developer profile, follow this format:
 ## Brazilian projects using Nodejs
 
 ## Nodejs Dev's
+
+| Name | LinkedIn | GitHub | website |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
