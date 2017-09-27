@@ -3,7 +3,7 @@
 > A great list about Nodejs use in Brazil
 
 <p align="center">
-  <img src="https://github.com/woliveiras/nodejs-in-brazil/blob/master/assets/logo-hexagon.png?raw=true" alt="Nodejs Logo" title="Nodejs Logo" width="150px">
+  <img src="https://raw.githubusercontent.com/woliveiras/nodejs-in-brazil/master/assets/logo-hexagon.svg?sanitize=true" alt="Nodejs Logo" title="Nodejs Logo" width="250px">
 </p>
 
 The number of Nodejs applications has grown a lot around the world. In Brazil it is not being different.
@@ -18,6 +18,7 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 * [Companies using Nodejs](#companies-using-nodejs)
   * [e-commerce](#e-commerce)
   * [fintechs](#fintechs)
+  * [marketplace](#marketplace)
   * [portals](#portals)
   * [social media](#social-media)
 * [Brazilian projects using Nodejs](#brazilian-projects-using-nodejs)
@@ -55,6 +56,9 @@ All content must be inputted arranged in alphabetical order.
 
 * [Zimp](https://zimp.me)
 
+### marketplace
+* [GetNinjas](https://www.getninjas.com.br/)
+
 ### portals
 
 ### social media
@@ -71,12 +75,18 @@ All content must be inputted arranged in alphabetical order.
 * [Azk](http://azk.io)
 * [Scup Care](https://www.scup.com/en/)
 * [Speck](https://github.com/scup/speck)
+* [CEP API](https://github.com/lagden/cep-koa-api)
+* [Wcode](https://github.com/fmsouza/wcode)
 
 ## Nodejs Dev's
 
-| Name | LinkedIn | GitHub | website |
-|------|----------|--------|---------|
-| Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
-| Éverton Ribeiro | [linkedin.com/in/everton-ribeiro-93080813/](https://www.linkedin.com/in/everton-ribeiro-93080813/) | [github.com/nuxlli](https://github.com/nuxlli) | -- |
-| Thiago Santos | -- | [github.com/thiamsantos](https://github.com/thiamsantos) | -- |
-| Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley) | [wharleyornelas](http://wharleyornelas.com) |
+Name                  | LinkedIn                                                                                               | GitHub                                                                        | Website
+--------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------| -------------------------------------------
+Bruno Agutoli         | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/)                                        | [github.com/agutoli](https://github.com/agutoli)                              | --
+Éverton Ribeiro       | [linkedin.com/in/everton-ribeiro-93080813/](https://www.linkedin.com/in/everton-ribeiro-93080813/)     | [github.com/nuxlli](https://github.com/nuxlli)                                | --
+Felipe Orlando        | [linkedin.com/in/felipeorlando](https://www.linkedin.com/in/felipeorlando/)                            | [github.com/felipeorlando](https://github.com/felipeorlando)                  | [felipeorlando.github.io](http://felipeorlando.github.io/)
+Fred Souza            | [linkedin.com/in/fredamsouza](https://www.linkedin.com/in/fredamsouza/)                                | [github.com/fmsouza](https://github.com/fmsouza)                              | --
+Leonardo Cardoso      | [linkedin.com/in/leocardoso94](https://www.linkedin.com/in/leocardoso94/)                              | [github.com/leocardoso94](https://github.com/leocardoso94)                    | [leocardoso94](https://leocardoso94.github.io)
+Thiago Santos         | --                                                                                                     | [github.com/thiamsantos](https://github.com/thiamsantos)                      | --
+Thiago Lagden         | [br.linkedin.com/in/lagden](https://br.linkedin.com/in/lagden)                                         | [github.com/lagden](https://github.com/lagden)                                | [lagden.in](http://lagden.in)
+Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/)       | [github.com/wharley](https://github.com/wharley)                              | [wharleyornelas](http://wharleyornelas.com)
