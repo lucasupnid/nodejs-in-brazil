@@ -69,4 +69,5 @@ All content must be inputted arranged in alphabetical order.
 | Name | LinkedIn | GitHub | website |
 |------|----------|--------|---------|
 | Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
+| Thiago Santos | -- | [github.com/thiamsantos](https://github.com/thiamsantos) | -- |
 | Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley) | [wharleyornelas](http://wharleyornelas.com) |
