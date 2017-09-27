@@ -45,6 +45,8 @@ To insert your developer profile, follow this format:
 | Your name | [Your name's LinkedIn](https://linkedin.com/in/profile) | [Your name's GitHub](https://github.com/profile) | [Your name's website](https://website.com) |
 ```
 
+All content must be inputted arranged in alphabetical order.
+
 ## Companies using Nodejs
 
 ### e-commerce
