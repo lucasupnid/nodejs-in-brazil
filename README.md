@@ -69,6 +69,7 @@ All content must be inputted arranged in alphabetical order.
 
 * [Scup Care](https://www.scup.com/en/)
 * [Speck](https://github.com/scup/speck)
+* [Wcode](https://github.com/fmsouza/wcode)
 
 ## Nodejs Dev's
 
@@ -76,5 +77,6 @@ All content must be inputted arranged in alphabetical order.
 |------|----------|--------|---------|
 | Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
 | Felipe Orlando | [linkedin.com/in/felipeorlando](https://www.linkedin.com/in/felipeorlando/) | [github.com/felipeorlando](https://github.com/felipeorlando) | [felipeorlando.github.io](http://felipeorlando.github.io/) |
+| Fred Souza | [linkedin.com/in/fredamsouza](https://www.linkedin.com/in/fredamsouza/) | [github.com/fmsouza](https://github.com/fmsouza) | -- |
 | Thiago Santos | -- | [github.com/thiamsantos](https://github.com/thiamsantos) | -- |
 | Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley) | [wharleyornelas](http://wharleyornelas.com) |
