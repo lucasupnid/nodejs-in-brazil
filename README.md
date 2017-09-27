@@ -3,7 +3,7 @@
 > A great list about Nodejs use in Brazil
 
 <p align=center>
-  <img src="/assets/logo-hexagon.png" alt="Nodejs Logo" title="Nodejs Logo" width="150px">
+  <img src="https://github.com/woliveiras/nodejs-in-brazil/blob/master/assets/logo-hexagon.png?raw=true" alt="Nodejs Logo" title="Nodejs Logo" width="150px">
 </p>
 
 The number of Nodejs applications has grown a lot around the world. In Brazil it is not being different.
