@@ -78,3 +78,4 @@ Fred Souza      | [linkedin.com/in/fredamsouza](https://www.linkedin.com/in/fred
 Thiago Santos   | --                                                                                               | [github.com/thiamsantos](https://github.com/thiamsantos) | --
 Thiago Lagden   | [br.linkedin.com/in/lagden](https://br.linkedin.com/in/lagden)                                   | [github.com/lagden](https://github.com/lagden)           | [lagden.in](http://lagden.in)
 Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley)         | [wharleyornelas](http://wharleyornelas.com)
+Daniel Röhers Moura | [linkedin.com/in/danielrohers](https://linkedin.com/in/danielrohers) | [github.com/danielrohers](https://github.com/danielrohers) | [danielrohers.com](https://danielrohers.com) |
