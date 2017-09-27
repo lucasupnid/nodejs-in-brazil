@@ -45,7 +45,8 @@ To insert your developer profile, follow this format:
 ```
 
 ## Companies using Nodejs
-* [Scup/Sprinklr](https://www.sprinklr.com/pt-br/)
+* [Scup](https://www.scup.com/pt/)
+* [Sprinklr](https://www.sprinklr.com/pt-br/)
 
 ### fintechs
 ### portals
