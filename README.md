@@ -53,6 +53,8 @@ All content must be inputted arranged in alphabetical order.
 
 ### fintechs
 
+* [Zimp](https://zimp.me)
+
 ### portals
 
 ### social media
@@ -61,6 +63,7 @@ All content must be inputted arranged in alphabetical order.
 * [Sprinklr](https://www.sprinklr.com/pt-br/)
 
 ## Brazilian projects using Nodejs
+
 * [Scup Care](https://www.scup.com/en/)
 * [Speck](https://github.com/scup/speck)
 
