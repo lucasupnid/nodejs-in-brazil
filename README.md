@@ -14,18 +14,18 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 
 ## Contents
 
-* Companies using Nodejs
-  * fintech
-  * portal
-  * e-commerce
-* Brazilian projects using Nodejs
-* Nodejs devs
+* [Companies using Nodejs](#companies-using-nodejs)
+  * [fintechs](#fintechs)
+  * [portals](#portals)
+  * [e-commerce](#e-commerce)
+* [Brazilian projects using Nodejs](#brazilian-projects-using-nodejs)
+* [Nodejs devs](#nodejs-devs)
 
 ## Companies using Nodejs
 
 ### fintechs
 ### portals
-### e-commerces
+### e-commerce
 
 ## Brazilian projects using Nodejs
 
