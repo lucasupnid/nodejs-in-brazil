@@ -52,6 +52,8 @@ All content must be inputted arranged in alphabetical order.
 
 ### e-commerce
 
+* [LojasKD](https://www.lojaskd.com.br/)
+
 ### fintechs
 
 * [Zimp](https://zimp.me)
