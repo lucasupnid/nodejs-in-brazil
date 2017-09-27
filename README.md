@@ -58,5 +58,5 @@ To insert your developer profile, follow this format:
 ## Nodejs Dev's
 
 | Name | LinkedIn | GitHub | website |
+|------|----------|--------|---------|
 | Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
-| -- | -- | -- | -- |
