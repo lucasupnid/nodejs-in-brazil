@@ -62,8 +62,13 @@ All content must be inputted arranged in alphabetical order.
 * [Scup](https://www.scup.com/pt/)
 * [Sprinklr](https://www.sprinklr.com/pt-br/)
 
+### Developers tools
+
+* [Azuki](https://azukiapp.com)
+
 ## Brazilian projects using Nodejs
 
+* [Azk](http://azk.io)
 * [Scup Care](https://www.scup.com/en/)
 * [Speck](https://github.com/scup/speck)
 
@@ -72,5 +77,6 @@ All content must be inputted arranged in alphabetical order.
 | Name | LinkedIn | GitHub | website |
 |------|----------|--------|---------|
 | Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
+| Éverton Ribeiro | [linkedin.com/in/everton-ribeiro-93080813/](https://www.linkedin.com/in/everton-ribeiro-93080813/) | [github.com/nuxlli](https://github.com/nuxlli) | -- |
 | Thiago Santos | -- | [github.com/thiamsantos](https://github.com/thiamsantos) | -- |
 | Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley) | [wharleyornelas](http://wharleyornelas.com) |
