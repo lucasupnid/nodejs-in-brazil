@@ -2,7 +2,7 @@
 
 > A great list about Nodejs use in Brazil
 
-<p align=center>
+<p align="center">
   <img src="https://github.com/woliveiras/nodejs-in-brazil/blob/master/assets/logo-hexagon.png?raw=true" alt="Nodejs Logo" title="Nodejs Logo" width="150px">
 </p>
 
