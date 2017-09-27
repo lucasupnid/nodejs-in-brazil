@@ -55,6 +55,9 @@ All content must be inputted arranged in alphabetical order.
 
 * [Zimp](https://zimp.me)
 
+### marketplace
+* [GetNinjas](https://www.getninjas.com.br/)
+
 ### portals
 
 ### social media
@@ -72,5 +75,6 @@ All content must be inputted arranged in alphabetical order.
 | Name | LinkedIn | GitHub | website |
 |------|----------|--------|---------|
 | Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
+| Felipe Orlando | [linkedin.com/in/felipeorlando](https://www.linkedin.com/in/felipeorlando/) | [github.com/felipeorlando](https://github.com/felipeorlando) | [felipeorlando.github.io](http://felipeorlando.github.io/) |
 | Thiago Santos | -- | [github.com/thiamsantos](https://github.com/thiamsantos) | -- |
 | Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley) | [wharleyornelas](http://wharleyornelas.com) |
