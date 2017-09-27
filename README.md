@@ -45,15 +45,18 @@ To insert your developer profile, follow this format:
 ```
 
 ## Companies using Nodejs
+* [Scup/Sprinklr](https://www.sprinklr.com/pt-br/)
 
 ### fintechs
 ### portals
 ### e-commerce
 
 ## Brazilian projects using Nodejs
+* [Scup Care](https://www.scup.com/en/)
+* [Speck](https://github.com/scup/speck)
 
 ## Nodejs Dev's
 
 | Name | LinkedIn | GitHub | website |
-| -- | -- | -- | -- |
+| Bruno Agutoli | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/) | [github.com/agutoli](https://github.com/agutoli) | -- |
 | -- | -- | -- | -- |
