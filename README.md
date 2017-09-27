@@ -67,12 +67,14 @@ All content must be inputted arranged in alphabetical order.
 * [Scup Care](https://www.scup.com/en/)
 * [Speck](https://github.com/scup/speck)
 * [CEP API](https://github.com/lagden/cep-koa-api)
+* [Wcode](https://github.com/fmsouza/wcode)
 
 ## Nodejs Dev's
 
 Name            | LinkedIn                                                                                         | GitHub                                                   | Website
 --------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------
 Bruno Agutoli   | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/)                                  | [github.com/agutoli](https://github.com/agutoli)         | --
+Fred Souza      | [linkedin.com/in/fredamsouza](https://www.linkedin.com/in/fredamsouza/)                          | [github.com/fmsouza](https://github.com/fmsouza)         | --
 Thiago Santos   | --                                                                                               | [github.com/thiamsantos](https://github.com/thiamsantos) | --
-Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley)         | [wharleyornelas](http://wharleyornelas.com)
 Thiago Lagden   | [br.linkedin.com/in/lagden](https://br.linkedin.com/in/lagden)                                   | [github.com/lagden](https://github.com/lagden)           | [lagden.in](http://lagden.in)
+Wharley Ornelas | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/) | [github.com/wharley](https://github.com/wharley)         | [wharleyornelas](http://wharleyornelas.com)
