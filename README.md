@@ -63,6 +63,10 @@ All content must be inputted arranged in alphabetical order.
 
 * [Zimp](https://zimp.me)
 
+### cryptocurrencies
+
+* [WatchCoins](https://watchcoins.net)
+
 ### marketplace
 * [GetNinjas](https://www.getninjas.com.br/)
 
