@@ -85,6 +85,7 @@ All content must be inputted arranged in alphabetical order.
 
 Name                  | LinkedIn                                                                                               | GitHub                                                                        | Website
 --------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------| -------------------------------------------
+| Alexandre Silva | [linkedin.com/in/silvalexandre0](https://www.linkedin.com/in/silvalexandre0) | [github.com/silvalexandre](https://github.com/silvalexandre) | [silvalexandre.com](http://silvalexandre.com) |
 Bruno Agutoli         | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/)                                        | [github.com/agutoli](https://github.com/agutoli)                              | --
 Carlos José           | [linkedin.com/in/carlos-josé-949687116](https://www.linkedin.com/in/carlos-josé-949687116/)            | [github.com/CarlosJSL](https://github.com/CarlosJSL)                          | --
 Daniel Röhers Moura   | [linkedin.com/in/danielrohers](https://linkedin.com/in/danielrohers)                                   | [github.com/danielrohers](https://github.com/danielrohers)                    | [danielrohers.com](https://danielrohers.com)
