@@ -16,6 +16,7 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 
 * [how to contribute](#how-to-contribute)
 * [Companies using Nodejs](#companies-using-nodejs)
+  * [cryptocurrencies](#cryptocurrencies)
   * [developers tools](#developers-tools)
   * [e-commerce](#e-commerce)
   * [fintechs](#fintechs)
@@ -51,6 +52,10 @@ All content must be inputted arranged in alphabetical order.
 
 ## Companies using Nodejs
 
+### cryptocurrencies
+
+* [WatchCoins](https://watchcoins.net)
+
 ### Developers tools
 
 * [Azuki](https://azukiapp.com)
@@ -62,10 +67,6 @@ All content must be inputted arranged in alphabetical order.
 ### fintechs
 
 * [Zimp](https://zimp.me)
-
-### cryptocurrencies
-
-* [WatchCoins](https://watchcoins.net)
 
 ### marketplace
 * [GetNinjas](https://www.getninjas.com.br/)
