@@ -16,6 +16,7 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 
 * [how to contribute](#how-to-contribute)
 * [Companies using Nodejs](#companies-using-nodejs)
+  * [cryptocurrencies](#cryptocurrencies)
   * [developers tools](#developers-tools)
   * [e-commerce](#e-commerce)
   * [fintechs](#fintechs)
@@ -50,6 +51,10 @@ To insert your developer profile, follow this format:
 All content must be inputted arranged in alphabetical order.
 
 ## Companies using Nodejs
+
+### cryptocurrencies
+
+* [WatchCoins](https://watchcoins.net)
 
 ### Developers tools
 
