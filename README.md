@@ -51,15 +51,15 @@ All content **must** be arranged in alphabetical order.
 
 ## Companies using Nodejs
 
-### Developers tools
+### developers tools
 
 * [Azuki](https://azukiapp.com)
 
-### E-commerces
+### e-commerces
 
 * [LojasKD](https://www.lojaskd.com.br/)
 
-### Fintechs
+### fintechs
 
 * [Zimp](https://zimp.me)
 
@@ -67,7 +67,7 @@ All content **must** be arranged in alphabetical order.
 
 * [GetNinjas](https://www.getninjas.com.br/)
 
-### Portals
+### portals
 
 ### social media
 
