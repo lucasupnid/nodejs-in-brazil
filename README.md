@@ -87,6 +87,8 @@ All content **must** be arranged in alphabetical order.
 * [Speck](https://github.com/scup/speck)
 * [CEP API](https://github.com/lagden/cep-koa-api)
 * [Wcode](https://github.com/fmsouza/wcode)
+* [boleto-br](https://github.com/boleto-br)
+
 
 ## Nodejs Dev's
 
@@ -104,4 +106,5 @@ Leonardo Cardoso      | [linkedin.com/in/leocardoso94](https://www.linkedin.com/
 Lucas Santos       | [linkedin.com/in/lhs-santos](https://www.linkedin.com/in/lhs-santos/)       | [github.com/khaosdoctor](https://github.com/khaosdoctor)                              | [lsantos.me](http://lsantos.me)
 Thiago Santos         | --                                                                                                     | [github.com/thiamsantos](https://github.com/thiamsantos)                      | --
 Thiago Lagden         | [br.linkedin.com/in/lagden](https://br.linkedin.com/in/lagden)                                         | [github.com/lagden](https://github.com/lagden)                                | [lagden.in](http://lagden.in)
+Rafael Castro      | [linkedin.com/in/rafael-castro-32956510b](https://www.linkedin.com/in/rafael-castro-32956510b/)       | [github.com/RafaelC457ro](https://github.com/RafaelC457ro)                              | 
 Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/)       | [github.com/wharley](https://github.com/wharley)                              | [wharleyornelas](http://wharleyornelas.com)
