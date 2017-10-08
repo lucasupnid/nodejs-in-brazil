@@ -16,6 +16,7 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 
 * [how to contribute](#how-to-contribute)
 * [Companies using Nodejs](#companies-using-nodejs)
+  * [cryptocurrencies](#cryptocurrencies)
   * [developers tools](#developers-tools)
   * [e-commerce](#e-commerce)
   * [fintechs](#fintechs)
@@ -50,6 +51,10 @@ To add your developer profile, follow this format:
 All content **must** be arranged in alphabetical order.
 
 ## Companies using Nodejs
+
+### cryptocurrencies
+
+* [WatchCoins](https://watchcoins.net)
 
 ### developers tools
 
@@ -87,12 +92,14 @@ All content **must** be arranged in alphabetical order.
 
 Name                  | LinkedIn                                                                                               | GitHub                                                                        | Website
 --------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------| -------------------------------------------
+| Alexandre Silva | [linkedin.com/in/silvalexandre0](https://www.linkedin.com/in/silvalexandre0) | [github.com/silvalexandre](https://github.com/silvalexandre) | [silvalexandre.com](http://silvalexandre.com) |
 Bruno Agutoli         | [linkedin.com/in/agutoli](https://www.linkedin.com/in/agutoli/)                                        | [github.com/agutoli](https://github.com/agutoli)                              | --
 Carlos José           | [linkedin.com/in/carlos-josé-949687116](https://www.linkedin.com/in/carlos-josé-949687116/)            | [github.com/CarlosJSL](https://github.com/CarlosJSL)                          | --
 Daniel Röhers Moura   | [linkedin.com/in/danielrohers](https://linkedin.com/in/danielrohers)                                   | [github.com/danielrohers](https://github.com/danielrohers)                    | [danielrohers.com](https://danielrohers.com)
 Éverton Ribeiro       | [linkedin.com/in/everton-ribeiro-93080813/](https://www.linkedin.com/in/everton-ribeiro-93080813/)     | [github.com/nuxlli](https://github.com/nuxlli)                                | --
 Felipe Orlando        | [linkedin.com/in/felipeorlando](https://www.linkedin.com/in/felipeorlando/)                            | [github.com/felipeorlando](https://github.com/felipeorlando)                  | [felipeorlando.github.io](http://felipeorlando.github.io/)
 Fred Souza            | [linkedin.com/in/fredamsouza](https://www.linkedin.com/in/fredamsouza/)                                | [github.com/fmsouza](https://github.com/fmsouza)                              | --
+| Igor Antun | [linkedin.com/in/igorantun](https://www.linkedin.com/in/igorantun) | [github.com/IgorAntun](https://github.com/IgorAntun) | [igorantun.com](https://igorantun.com) 
 Leonardo Cardoso      | [linkedin.com/in/leocardoso94](https://www.linkedin.com/in/leocardoso94/)                              | [github.com/leocardoso94](https://github.com/leocardoso94)                    | [leocardoso94](https://leocardoso94.github.io)
 Lucas Santos       | [linkedin.com/in/lhs-santos](https://www.linkedin.com/in/lhs-santos/)       | [github.com/khaosdoctor](https://github.com/khaosdoctor)                              | [lsantos.me](http://lsantos.me)
 Thiago Santos         | --                                                                                                     | [github.com/thiamsantos](https://github.com/thiamsantos)                      | --
