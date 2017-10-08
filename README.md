@@ -6,9 +6,9 @@
   <img src="https://raw.githubusercontent.com/woliveiras/nodejs-in-brazil/master/assets/logo-hexagon.svg?sanitize=true" alt="Nodejs Logo" title="Nodejs Logo" width="250px">
 </p>
 
-The number of Nodejs applications has grown a lot around the world. In Brazil it is not being different.
+The number of Nodejs applications has grown a lot around the world. In Brazil it is not different.
 
-We have many developers working with Nodejs in our country and many Brazilian companies using the platform for large applications.
+We have many developers working with Nodejs in our country and many Brazilian companies using the platform to build large applications.
 
 This is a list of companies, projects and developers using Nodejs in Brazil.
 
@@ -28,19 +28,19 @@ This is a list of companies, projects and developers using Nodejs in Brazil.
 
 ## How to contribute
 
-To insert your company, follow in this format:
+To add your company, follow this format:
 
 ```
 * [company name](link to website)
 ```
 
-To insert your project, follow in this format:
+To add your project, follow this format:
 
 ```
 * [project name](GitHub or website)
 ```
 
-To insert your developer profile, follow this format:
+To add your developer profile, follow this format:
 
 ```
 | Name | LinkedIn | GitHub | website |
@@ -48,7 +48,7 @@ To insert your developer profile, follow this format:
 | Your name | [Your name's LinkedIn](https://linkedin.com/in/profile) | [Your name's GitHub](https://github.com/profile) | [Your name's website](https://website.com) |
 ```
 
-All content must be inputted arranged in alphabetical order.
+All content **must** be arranged in alphabetical order.
 
 ## Companies using Nodejs
 
@@ -56,11 +56,11 @@ All content must be inputted arranged in alphabetical order.
 
 * [WatchCoins](https://watchcoins.net)
 
-### Developers tools
+### developers tools
 
 * [Azuki](https://azukiapp.com)
 
-### e-commerce
+### e-commerces
 
 * [LojasKD](https://www.lojaskd.com.br/)
 
@@ -69,6 +69,7 @@ All content must be inputted arranged in alphabetical order.
 * [Zimp](https://zimp.me)
 
 ### marketplace
+
 * [GetNinjas](https://www.getninjas.com.br/)
 
 ### portals
@@ -77,6 +78,7 @@ All content must be inputted arranged in alphabetical order.
 
 * [Scup](https://www.scup.com/pt/)
 * [Sprinklr](https://www.sprinklr.com/pt-br/)
+* [Squid](https://squidit.com.br)
 
 ## Brazilian projects using Nodejs
 
@@ -99,6 +101,7 @@ Felipe Orlando        | [linkedin.com/in/felipeorlando](https://www.linkedin.com
 Fred Souza            | [linkedin.com/in/fredamsouza](https://www.linkedin.com/in/fredamsouza/)                                | [github.com/fmsouza](https://github.com/fmsouza)                              | --
 | Igor Antun | [linkedin.com/in/igorantun](https://www.linkedin.com/in/igorantun) | [github.com/IgorAntun](https://github.com/IgorAntun) | [igorantun.com](https://igorantun.com) 
 Leonardo Cardoso      | [linkedin.com/in/leocardoso94](https://www.linkedin.com/in/leocardoso94/)                              | [github.com/leocardoso94](https://github.com/leocardoso94)                    | [leocardoso94](https://leocardoso94.github.io)
+Lucas Santos       | [linkedin.com/in/lhs-santos](https://www.linkedin.com/in/lhs-santos/)       | [github.com/khaosdoctor](https://github.com/khaosdoctor)                              | [lsantos.me](http://lsantos.me)
 Thiago Santos         | --                                                                                                     | [github.com/thiamsantos](https://github.com/thiamsantos)                      | --
 Thiago Lagden         | [br.linkedin.com/in/lagden](https://br.linkedin.com/in/lagden)                                         | [github.com/lagden](https://github.com/lagden)                                | [lagden.in](http://lagden.in)
 Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/)       | [github.com/wharley](https://github.com/wharley)                              | [wharleyornelas](http://wharleyornelas.com)
