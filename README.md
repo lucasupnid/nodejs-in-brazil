@@ -73,7 +73,7 @@ All content **must** be arranged in alphabetical order.
 * [GetNinjas](https://www.getninjas.com.br/)
 
 ### portals
-
+* [HBSIS](https://hbsis.com.br/)
 ### social media
 
 * [Scup](https://www.scup.com/pt/)
