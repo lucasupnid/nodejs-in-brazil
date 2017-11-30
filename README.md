@@ -67,6 +67,7 @@ All content **must** be arranged in alphabetical order.
 ### fintechs
 
 * [Zimp](https://zimp.me)
+* [Superlógica](https://superlogica.com)
 
 ### marketplace
 
