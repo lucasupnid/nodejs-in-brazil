@@ -68,6 +68,7 @@ All content **must** be arranged in alphabetical order.
 
 * [Zimp](https://zimp.me)
 * [Superlógica](https://superlogica.com)
+* [PJBank](https://pjbank.com.br)
 
 ### marketplace
 
